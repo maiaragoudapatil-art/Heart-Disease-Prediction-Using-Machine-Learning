@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+logistic_rehression
+random_forest
+xgboost
+SHAP
+streamlit
